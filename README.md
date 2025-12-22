@@ -100,8 +100,21 @@ All time metrics are displayed in **mm:ss format** for business readability.
 * Microsoft Power BI
 * DAX (for time calculations & funnel logic)
 * Power Query (data transformation)
+  
+Version History
+v2 — (Dec 22, 2025)
 
----
+✔ New shape map added for 17 countries
+✔ Checkout rate formula improved
+✔ Background redesign
+✔ Power BI service compatibility
+✔ Performance optimized
+
+File: Click Stream Report v2.pbix
+v1 — (Dec 15, 2025)
+
+Initial dashboard release
+File: Click Stream Report.pbix
 
 ## How to Use
 
